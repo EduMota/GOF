@@ -1,3 +1,4 @@
 # Game of Life
-<b>Profº Carlos Eduardo<br>
-![Carlos](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/000/088/0af/3d6d80c.jpg)
+### Fork do projeto realizado no laboratório de programa na PUC-SP em 2017
+
+Repositório [original](https://github.com/MuriloAcsonov/GOF)
